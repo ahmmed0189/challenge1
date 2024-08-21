@@ -45,7 +45,7 @@ class App extends StatelessWidget {
                   ),
                   SizedBox(height: 90),
                   Padding(
-                    padding: EdgeInsets.all(30.0),
+                    padding: EdgeInsets.all(20.0),
                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
